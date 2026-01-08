@@ -15,6 +15,16 @@ This presentation provides a data-driven analysis comparing the strategic value 
 
 ## How to View
 
+### Option 1: Shareable Link (Recommended)
+
+View the slideshow online via this direct link:
+
+**[🔗 View Slideshow](https://htmlpreview.github.io/?https://github.com/jrjbertsch/strategic_asset_report/blob/copilot/create-strategic-asset-slideshow/index.html)**
+
+This link can be shared with anyone and viewed directly in their browser without downloading.
+
+### Option 2: Local Viewing
+
 Simply open `index.html` in any modern web browser to view the slideshow.
 
 ## Navigation
